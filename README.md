@@ -20,19 +20,19 @@ An end-to-end HR Analytics Dashboard built entirely in Microsoft Excel. This pro
 *(Note: Click on the images to view them in full resolution)*
 
 ### 1. Home / Objectives Page
-![Home Page](Screenshots/Home.png)
+![Home Page](ScreenShots/Home.png)
 
 ### 2. General Overview & Demographics
-![Overview](Screenshots/Overview.png)
+![Overview](ScreenShots/Overview.png)
 
 ### 3. Performance & Training Analysis
-![Performance](Screenshots/Performance.png)
+![Performance](ScreenShots/Performance.png)
 
 ### 4. Operations Analysis
-![Operations](Screenshots/Operations.png)
+![Operations](ScreenShots/Operations.png)
 
 ### 4. Salary Distribution & Payroll
-![Salary](Screenshots/Salary.png)
+![Salary](ScreenShots/Salary.png)
 
 ## Key Insights
 1. **Retention & Overtime:** Employees working excessive overtime hours tend to be the most active and retained, contrary to the assumption that overtime causes burnout-driven attrition.
